@@ -52,16 +52,16 @@ A [LÖVE2D](https://love2d.org/)-based UI framework providing GUI components wit
 ├── key/
 │   └── KeyPressing.lua   # 按键输入模块 / Key input module
 └── ui/
-├── Button.lua        # 按钮 / Button
-├── Choice.lua        # 选项切换器 / Option switcher
-├── Container.lua     # 网格容器（焦点导航） / Grid container (Focus navigation)
-├── GroupBox.lua      # 比例分组容器 / Proportional group container
-├── Layout.lua        # 布局包装器 / Layout wrapper
-├── ProcessBar.lua    # 进度条 / Progress bar
-├── RecordKey.lua     # 按键录制 / Key recorder
-├── Text.lua          # 文本 / Text label
-├── VolumeBar.lua     # 音量条组合 / Volume bar composite
-└── square.lua        # 选中框动画 / Selection box animation
+    ├── Button.lua        # 按钮 / Button
+    ├── Choice.lua        # 选项切换器 / Option switcher
+    ├── Container.lua     # 网格容器（焦点导航） / Grid container (Focus navigation)
+    ├── GroupBox.lua      # 比例分组容器 / Proportional group container
+    ├── Layout.lua        # 布局包装器 / Layout wrapper
+    ├── ProcessBar.lua    # 进度条 / Progress bar
+    ├── RecordKey.lua     # 按键录制 / Key recorder
+    ├── Text.lua          # 文本 / Text label
+    ├── VolumeBar.lua     # 音量条组合 / Volume bar composite
+    └── square.lua        # 选中框动画 / Selection box animation
 ```
 ## API 约定 / API Conventions
 
